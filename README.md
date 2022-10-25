@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @bryce-schultz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Bryce Schultz
 
-<!---
-bryce-schultz/bryce-schultz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy Software Engineering Technology!
+Some of my skills include
+- Git
+- C/C++
+- C#
+- Java
+- HTML
+- CSS
+- JavaScript
+- Python
+- Progressive Web Applications
+- Desktop Applications
+- Game Hacking
+- And More!
