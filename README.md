@@ -9,9 +9,5 @@ Some of my skills include
 - HTML
 - CSS
 - JavaScript
-- Python
 - Progressive Web Applications
-- Desktop Applications
-- Game Hacking
-- Docker
 - And More!
